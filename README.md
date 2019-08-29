@@ -16,7 +16,7 @@ main.py train
 
 Test with pre-trained weight
 ```
-main.py test \path\to\pretrain\weight.h5 \path\to\input\image
+main.py test \path\to\pretrain\weight.h5 \path\to\input\image\
 ```
 
 Change model 
