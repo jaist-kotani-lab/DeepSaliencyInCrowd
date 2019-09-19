@@ -22,6 +22,13 @@ main.py test \path\to\pretrain\weight.h5 \path\to\input\image\
 Change model 
 ```
 Change the "net" parameter in utils/configs.py
+Model name parameters:
+Dense: dense
+Dense-D: sdensenet
+MSDense: msdensenetnon
+TSDense-D: tsdensenet
+MSDense-D: msdensenet
+MSDense-DAt: msdensenet_att
 ```
 
 ## Pre-trained weight
