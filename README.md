@@ -49,9 +49,16 @@ Pre-trained weight by training the Eyecrowd dataset.
 
 ## Citation
 ```
-@article{tri2019incrowd,
-  title={Saliency detection in human crowd images of different density levels using attention mechanism},
-  author={Tri, Nguyen Minh and Prarinya, Siritanawan and Kotani, Kazunori},
-  year={2019}
+@article{NGUYEN2020115976,
+  title = {Saliency detection in human crowd images of different density levels using attention mechanism},
+  journal = {Signal Processing: Image Communication},
+  volume = {88},
+  pages = {115976},
+  year = {2020},
+  issn = {0923-5965},
+  doi = {https://doi.org/10.1016/j.image.2020.115976},
+  url = {https://www.sciencedirect.com/science/article/pii/S0923596520301466},
+  author = {Minh Tri Nguyen and Prarinya Siritanawan and Kazunori Kotani},
 }
+
 ```
