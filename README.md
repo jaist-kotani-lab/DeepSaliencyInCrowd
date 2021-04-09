@@ -49,7 +49,7 @@ Pre-trained weight by training the Eyecrowd dataset.
 
 ## Citation
 ```
-@article{NGUYEN2020115976,
+@article{Nguyen:2020:SaliencyCrowd:NGUYEN2020115976,
   title = {Saliency detection in human crowd images of different density levels using attention mechanism},
   journal = {Signal Processing: Image Communication},
   volume = {88},
